@@ -1,10 +1,10 @@
 {
   "planes":
   {
-    "/main": "7ad137cfa8bc4e900f8892c569cc454b5d00b2809fd35643667aea5b49af6482",
-    "/catch": "f97affe50387e4a02743753cd9840177ae4b08ac286f225e81a5eb23a3f9a1e5",
-    "/friends": "7c40d34bfd7bcf0ec122ea9a4a319cbfa02b2db35da21d76aabc3d236367e1a7",
-    "/leaderboard": "155a91a2f9746c84d0dc3126fcf51e41166b07cb641c43a7c0679f5bc5d5fad4",
-    "/shop": "0ab694f95e780f03fd6c8adfae45920e58c41dc6c0fc51bae8582f754b79ec1c"
+    "/main": "7571bff5ef097e2e33790c391debee9fcfa5e4d8fde5f2d3cbc2962e666bb07e",
+    "/catch": "46084a141eb9e3144a3d66d6ed64caebaf479aec102eb815b1589c0bc1ef125e",
+    "/friends": "03183c3ba1bd1c71b233f75254c3714f315e1667f1b374a2e63bf049ebc6d684",
+    "/leaderboard": "7b4a55f75fbdeca7a236ad3c1edec80ee100d71710b6eabbfbeb3d1eae1b7f41",
+    "/shop": "6673e20864844edf15a0196ec57273a14693d754c3ecf0ee9d92a31ff83b18b4"
   }
 }
